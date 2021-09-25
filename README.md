@@ -1,6 +1,4 @@
-# A color picker seekbar for android.
-
-<img src = "https://github.com/karthikeyanJKK/ColorSeekBar/tree/main/Art/seekbar.gif" />
+# A color picker seekbar for android apps.
 
 ## Download
  - Use Gradle
